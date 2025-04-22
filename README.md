@@ -1,4 +1,4 @@
-# …
+# 35474
 
 ## Current behavior
 
@@ -10,4 +10,4 @@ Renovate performs the update.
 
 ## Link to the Renovate issue or Discussion
 
-https://github.com/renovatebot/renovate/discussions/…
+https://github.com/renovatebot/renovate/discussions/35474
